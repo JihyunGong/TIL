@@ -38,3 +38,6 @@ The test runner used is [Jasmine](http://jasmine.github.io/) with a customized r
 *  Douglas Crockford - for Javascript; the good bits
 
 ### [MIT Licensed](LICENSE)
+
+출처1: [바닐라코딩 사전 학습 가이드](https://book.vanillacoding.co/starter-kit/step-5-1/scope-and-hoisting/javascript-koans)
+출처2: [Javascript Koans](https://github.com/mrdavidlaing/javascript-koans)
