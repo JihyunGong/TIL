@@ -10,7 +10,7 @@
 > **특이 케이스에 대한 대응은 하지 않아도 괜찮습니다.** 예) 중복 숫자 등
 
 ### Code Boilerplate
-[Baseball_Bolierplate.zip](https://book.vanillacoding.co/starter-kit/step-6/baseball)
+[Baseball_Bolierplate.zip](https://book.vanillacoding.co/starter-kit/step-6/baseball#code-boilerplate)
 
 ### TODO
 게임 시작 버튼 만들기
