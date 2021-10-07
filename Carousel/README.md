@@ -10,7 +10,7 @@
  > !! 애니메이션 효과는 필요하지 않습니다.
 
 ### Code Boilerplate
-[이 파일을 다운받아 시작하세요!](https://book.vanillacoding.co/starter-kit/step-4/interacting-with-webpages/carousel)
+[이 파일을 다운받아 시작하세요!](https://book.vanillacoding.co/starter-kit/step-4/interacting-with-webpages/carousel#code-boilerplate)
 
 ### TODO
 **[요구사항] Day 1**
