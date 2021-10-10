@@ -1,0 +1,48 @@
+body {
+  background-image: url("./images/bg.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Varela Round", sans-serif;
+}
+
+h1 {
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  font-size: 72px;
+}
+
+.main-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: cursive;
+  text-align: center;
+}
+
+.day, .date {
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.carousel {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-size: 25px;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 10px;
+  border-style: solid;
+  font-size: 15px;
+  font-weight: bold;  
+}
+
+.button:hover {
+  box-shadow: 1px 1px 1px 1px darkgray;
+}
+
