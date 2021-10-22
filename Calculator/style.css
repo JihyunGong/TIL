@@ -1,0 +1,44 @@
+/* Jihyun Gong */
+
+body {
+    background-image: url("./images/keyboard.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Varela Round", sans-serif;
+}
+
+.main-box {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+}
+
+h1 {
+    color: rgb(188, 216, 238);
+    -webkit-text-stroke: 0.5px gray;
+    text-align: center;
+    font-size: 70px;
+}
+
+table, th, td {
+    background-color: rgb(188, 216, 238);
+    color: gray;
+    border: solid 2px gray;
+    padding: 10px;
+    font-size: 40px;
+}
+
+th {
+    text-align: right;
+}
+
+td {
+    text-align: center;
+    width: 60px;
+    height: 60px;
+}
+
+td:hover {
+    background-color: rgb(245, 227, 187);
+}
