@@ -1,5 +1,7 @@
 ## Calculator
 
+![CalculatorImage](https://user-images.githubusercontent.com/88199458/138549570-a9492618-82a6-4cd1-8f26-382d4f809a18.png)
+
 자바스크립트로 계산기를 구현했습니다.
 
 계산기 스타일과 성능 구현은 아이폰 기본 계산기를 참고했습니다.
