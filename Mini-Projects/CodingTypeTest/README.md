@@ -1,5 +1,7 @@
 ## Coding Type Test
 
+![CodingTypeTest](https://user-images.githubusercontent.com/88199458/138690173-586f05c7-834d-4411-8da5-8a1876536b1c.png)
+
 웹 개발에 있어서, 자신의 프로그래밍 성향에 대해 파악할 수 있는 간단한 테스트입니다. 
 
 질문은 총 5개 있으며, 참여자의 선택에 따라 프론트엔드형 개발자인지 백엔드형 개발자인지 결과를 도출합니다. 
