@@ -1,0 +1,52 @@
+/* Jihyun Gong */
+@import url(//fonts.googleapis.com/earlyaccess/hanna.css);
+
+body {
+    background-image: url("./images/keyboard.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Hanna', sans-serif;
+}
+
+h1 {
+    background-color: rgb(175, 212, 248);
+    color: gray;
+    padding: 25px;
+    border: solid 5px gray;
+    border-radius: 25px;
+    font-size: 45px;
+}
+
+button {
+    font-family: 'Hanna', sans-serif;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.intro, .answer {
+    background-color:rgb(252, 240, 185);
+    color: gray;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 30px;
+}
+
+.start {
+    background-color: crimson;
+    color: black;
+    padding: 15px;
+    border: solid 3px black;
+    border-radius: 25px;
+    font-size: 35px;
+}
+
+.answer {
+    display: none;
+    margin-top: 15px;
+}
